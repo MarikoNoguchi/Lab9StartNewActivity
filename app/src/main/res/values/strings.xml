@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab9StartNewActivity</string>
+
+    <string name="ShowMsg">SHOW MESSAGE</string>
+    <string name="ShowCon">SHOW CONTACTS</string>
+    <string name="DisplayWeb">DISPLAY WEBSITE</string>
+    <string name="ViewPhone">VIEW PHONE DIALER</string>
+
+    <string name="GreetGD">Good Day!</string>
+
+</resources>
